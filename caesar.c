@@ -2,7 +2,7 @@
 #include<ctype.h>
 #include<stdlib.h>
 void caesarcode(char*,int);
-
+//comment
 int main(int argc,char*argv[])
 {
 	//validate key here
