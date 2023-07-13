@@ -23,6 +23,7 @@ void grayscale(int height,int width,int i,int j,RGBTRIPLE image[height][width])
 	}
 	return;
 }
+bdfjbjfd
 int limit(int RGB)
 
 {
